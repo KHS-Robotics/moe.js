@@ -1,2 +1,2 @@
 # moe.js
-Receiver for H.264 video streamed over WebSockets
+Receiver for MPJEG and H.264 video streamed over WebSockets
