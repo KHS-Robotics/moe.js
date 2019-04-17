@@ -12,3 +12,6 @@
 hs_err_pid*
 
 build/js
+
+.DS_Store
+thumbs.db
